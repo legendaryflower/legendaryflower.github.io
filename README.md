@@ -1,2 +1,1 @@
-# dinoslime
-Dinoslime, click here for more zombucks!
+Don't mind me
