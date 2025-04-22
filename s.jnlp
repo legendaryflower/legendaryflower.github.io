@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="https://legendaryflower.github.io/" href="s.jnlp">
+  <information>
+    <title>s</title>
+    <vendor>s</vendor>
+    <description>s</description>
+  </information>
+
+  <security>
+    <all-permissions/>
+  </security>
+
+  <resources>
+    <j2se version="1.8+"/>
+    <jar href="s.jar" main="true"/>
+  </resources>
+
+  <application-desc main-class="com.example.MainClass"/>
+</jnlp>
